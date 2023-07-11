@@ -22,7 +22,7 @@ N/A
 
 Here is the link: 
 
-<img src="./assets/images/screenshot.png">
+<img src="./assets/images/portfolio.png">
 
 ## Credits
 
