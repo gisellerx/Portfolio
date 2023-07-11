@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-Here is the link: 
+Here is the link: https://gisellerx.github.io/Portfolio/
 
 <img src="./assets/images/portfolio.png">
 
